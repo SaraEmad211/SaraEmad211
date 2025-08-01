@@ -23,7 +23,7 @@
   
 ###  📫 Social links
 <p>
-<a href="https://www.linkedin.com/in/SaraEmad/"><img
+<a href="https://www.linkedin.com/in/sara-emad-80ab88307/"><img
     src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 </p>
 
