@@ -1,5 +1,3 @@
-
-<img align="right" src="https://raw.githubusercontent.com/SaraEmad211/main/github-profile.png" width="30%">
 <h1>
   Hi There I'm Sara Emad 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
