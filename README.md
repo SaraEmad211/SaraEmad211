@@ -3,21 +3,20 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p>
-💡 I'm especially interested in the intersection of <strong>Artificial Intelligence</strong> and <strong>Flutter</strong>, and how they can work together to build smart mobile applications.
-
+💡 I'm especially interested in <strong>Penetration Testing</strong> and <strong>Red Teaming</strong>, and how they can help improve cybersecurity by identifying vulnerabilities and testing defenses.
 </p>
 
 🔭 <strong>I’m currently learning:</strong>
-- <strong>Flutter & Dart</strong> for cross-platform mobile development  
-- <strong>Python</strong> and its AI/ML libraries like NumPy, Pandas, and Scikit-learn
+- <strong>Python</strong> for security scripting and automation  
+- <strong>Ethical hacking</strong> tools like Nmap, Burp Suite, and Wireshark  
+- <strong>Red Team techniques</strong> and vulnerability assessment methods
 
-🤖 I enjoy experimenting with machine learning models and integrating them into mobile apps.
+🤖 I enjoy exploring security concepts, testing systems in safe environments, and learning how attacks work to better defend against them.
 
 🎯 Future Goals:
-- Build AI-powered mobile apps  
-- Deepen my knowledge in ML and deep learning  
-- Share my projects and learnings with the open-source community
-
+- Gain practical experience in Penetration Testing and Red Team operations  
+- Contribute to cybersecurity projects and share learnings  
+- Build skills to help secure applications and networks
   
 ###  📫 Social links
 <p>
