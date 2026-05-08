@@ -22,7 +22,7 @@
 <p>
 <a href="https://www.linkedin.com/in/sara-emad-80ab88307/"><img
     src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-<a href="[https://tryhackme.com/p/USERNAME](https://tryhackme.com/p/sara.emad2021)">
+<a href="https://tryhackme.com/p/sara.emad2021">
 <img
     src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe">
 </a>
