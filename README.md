@@ -31,8 +31,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraEmad211&layout=compact)
+
 <br>
 <a href="https://komarev.com/ghpvc/?username=SaraEmad211&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=SaraEmad211&style=for-the-badge">
