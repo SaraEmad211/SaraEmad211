@@ -2,21 +2,49 @@
   Hi There I'm Sara Emad 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<p>
-💡 I'm especially interested in <strong>Penetration Testing</strong> and <strong>Red Teaming</strong>, and how they can help improve cybersecurity by identifying vulnerabilities and testing defenses.
+<p align="center">
+Third-year Computer Science student at Ain Shams University with a strong interest in <b>Web Application Security</b> and <b>Penetration Testing</b>.
 </p>
 
-🔭 <strong>I’m currently learning:</strong>
-- <strong>Python</strong> for security scripting and automation  
-- <strong>Ethical hacking</strong> tools like Nmap, Burp Suite, and Wireshark  
-- <strong>Red Team techniques</strong> and vulnerability assessment methods
+## 👩‍💻 About Me
 
-🤖 I enjoy exploring security concepts, testing systems in safe environments, and learning how attacks work to better defend against them.
+- 🎓 Third-year Computer Science student at Ain Shams University (Expected Graduation: 2027)
+- 🔐 Passionate about Web Application Security and Vulnerability Assessment
+- 🧪 Regularly solving PortSwigger Web Security Academy labs
+- ✍️ Writing detailed security writeups and documenting vulnerabilities
+- 🚩 Interested in Bug Bounty, Penetration Testing, and Red Teaming
+
+## 🌱 Currently Learning
+
+- Advanced Web Application Security
+- API Security Testing
+- Authentication & Authorization Testing
+- Burp Suite Professional
+- Python for Security Automation
+
+## 🛠 Security Skills
+
+- SQL Injection
+- Cross-Site Scripting (XSS)
+- IDOR / Broken Access Control
+- SSRF
+- CORS Misconfiguration
+- JWT Attacks
+- Authentication Bypass
+- Host Header Injection
+- Path Traversal
+- File Upload Testing
+- Insecure deserialization
+
 
 🎯 Future Goals:
-- Gain practical experience in Penetration Testing and Red Team operations  
-- Contribute to cybersecurity projects and share learnings  
-- Build skills to help secure applications and networks
+- Expand my knowledge across different technology domains such as Mobile Networks, Cloud Computing, and Cybersecurity.
+- Build a strong foundation in networking and telecommunications.
+- Gain practical experience through real-world projects and internships.
+- Continue improving my penetration testing and web application security skills.
+
+Repository:
+https://github.com/SaraEmad211/Security-Writeups
   
 ###  📫 Social links
 <p>
