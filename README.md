@@ -8,7 +8,7 @@ Third-year Computer Science student at Ain Shams University with a strong intere
 
 ## 👩‍💻 About Me
 
-- 🎓 Third-year Computer Science student at Ain Shams University (Expected Graduation: 2027)
+- 🎓 fourth-year Computer Science student at Ain Shams University (Expected Graduation: 2027)
 - 🔐 Passionate about Web Application Security and Vulnerability Assessment
 - 🧪 Regularly solving PortSwigger Web Security Academy labs
 - ✍️ Writing detailed security writeups and documenting vulnerabilities
